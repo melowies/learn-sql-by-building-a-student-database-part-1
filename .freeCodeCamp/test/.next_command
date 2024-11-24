@@ -66,3 +66,4 @@ touch insert_date.sh
 touch insert_data.sh
 chmod +x insert_data.sh
 cat courses.csv
+./insert_data.sh
